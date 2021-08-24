@@ -1,2 +1,4 @@
 # WebAppRepo
-testing testing 123
+DACC Web Application
+
+Editor/Developer: Micah Olson
